@@ -1,6 +1,6 @@
 aiogram==2.25.1
+python-telegram-bot==20.7
 httpx
-python-telegram-bot==13.15
 openpyxl
 pandas
 aiofiles
